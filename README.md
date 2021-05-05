@@ -19,6 +19,8 @@ PhoneBook is a online address book! Add contacts and any associated phone number
 ## Postlandia
 Postlandia is a basic posting site ordered choronologically. Create or delete your own post or like and dislike posts!
  - [Link to pythonanywhere](https://jleckron.pythonanywhere.com/Postlandia)
+ 
+ (Edit: It seems that when deployed on PythonAnywhere, Postlandia must be refreshed for changes to show correctly, which should not be the case. I am looking into fixing this ASAP)
 
 ## PostoMatic
 PostoMatic is the evolution of Postlandia. Create posts, edit posts in place, or reply to other posts!
