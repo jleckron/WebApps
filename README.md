@@ -5,7 +5,7 @@ Feel free to easily sign in to the tester account on any of the sites with the f
   - email: tester@test.com <br/>
   - password: TesterPassword1
 
-Or create your own account!
+Or register to create your own account!
   
 # Important! Please do not share sensitive information
 Any changes you make to PhoneBook while signed in with the tester account will be visible to any other user with access to the tester account. <br/>
