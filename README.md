@@ -30,9 +30,9 @@ https://user-images.githubusercontent.com/56288842/120939016-975bc780-c6ca-11eb-
 
 
 
-# PostoMatic
+# Post-O-Matic
 PostoMatic is the evolution of Postlandia. Create posts, edit posts in place, or reply to other posts!
- - [Link to PostoMatic on Pythonanywhere](https://jleckron.pythonanywhere.com/PostoMatic)
+ - [Link to Post-O-Matic on Pythonanywhere](https://jleckron.pythonanywhere.com/PostoMatic)
  
  
 https://user-images.githubusercontent.com/56288842/120939179-98412900-c6cb-11eb-86fe-1ea27bf003ac.mov
